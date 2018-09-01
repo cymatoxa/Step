@@ -6,6 +6,18 @@ public class Main {
 		Writer writer = new Writer();
 		writer.setName("Bob");
 		System.out.println(writer.toString());
+		/
+		/
+		/
+		/
+		/
+		//
+		/
+		
+		/
+		/
+		/
+		/
 	}
 
 }
